@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Victor  
 
-<!--
-**dcVictor/dcVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Backend & Frontend | Always learning, always building 🚀**  
+*Computer Science Student - UFFS*  
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- Passionate about solving complex problems (TSP, heuristics, optimization 🔍)  
+- Built games in Assembly (Blackjack 🃏)  
+- Interested in both **backend** and **frontend** development  
+- Always learning and improving with every commit  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Frontend:** React, Tailwind  
+- **Backend:** Node.js, Express.js  
+- **Database:** PostgreSQL  
+- **Others:** VHDL, Assembly RISC-V, Git  
+
+## 📫 Find me at
+- GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- LinkedIn: [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)  
+
+---
+✨ *"Debugging life one commit at a time."*  
