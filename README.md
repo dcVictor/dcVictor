@@ -16,8 +16,8 @@
 - **Others:** VHDL, Assembly RISC-V, Git  
 
 ## 📫 Find me at
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- LinkedIn: [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)  
+- GitHub: [github.com/dcVictor](https://github.com/dcVictor)  
+- LinkedIn: [linkedin.com/in/VictorDeConto](https://linkedin.com/in/victor-neymar-de-conto-740832243)
 
 ---
 ✨ *"Debugging life one commit at a time."*  
