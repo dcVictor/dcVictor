@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Victor  
 
-**Software Developer | Backend & Frontend | Always learning, always building 🚀**  
-*Computer Science Student - UFFS*  
-
 ## 🌱 About Me
 - Passionate about solving complex problems (TSP, heuristics, optimization 🔍)  
 - Built games in Assembly (Blackjack 🃏)  
