@@ -4,57 +4,48 @@
 - Passionate about solving complex problems (TSP, heuristics, optimization 🔍)  
 - Built games in Assembly (Blackjack 🃏)  
 - Interested in both **backend** and **frontend** development  
-- Always learning and improving with every commit
+- Always learning and improving with every commit  
 
----
+## 🛠️ Tech Stack
+- **Frontend:** React, Tailwind  
+- **Backend:** Node.js, Express.js  
+- **Database:** PostgreSQL  
+- **Others:** VHDL, Assembly RISC-V, Git
+###
 
-## 🛠️ Tech Stack & Languages
-
-<div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
-  <!-- Bloco de Tecnologias -->
-  <div style="min-width: 250px;">
-    - **Frontend:** React, Tailwind  
-    - **Backend:** Node.js, Express.js  
-    - **Database:** PostgreSQL  
-    - **Others:** VHDL, Assembly RISC-V, Git
-
-    <div style="margin-top: 10px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-      <img width="12" />
-      <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-    </div>
-  </div>
-
-  <!-- Gráfico de Linguagens -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dcVictor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" 
-         height="150" 
-         alt="languages graph" />
-  </div>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
----
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dcVictor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ## 📫 Find me at
 - GitHub: [dcVictor](https://github.com/dcVictor)  
 - LinkedIn: [VictorDeConto](https://linkedin.com/in/victor-neymar-de-conto-740832243)
 
 ---
-
 ✨ *"Debugging life one commit at a time."*  
 
 <picture>
