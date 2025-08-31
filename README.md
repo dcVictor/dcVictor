@@ -5,18 +5,26 @@
 - Built games in Assembly (Blackjack 🃏)  
 - Interested in both **backend** and **frontend** development  
 - Always learning and improving with every commit
-- 
-<div align="left" style="display: flex; gap: 20px;">
-  <div>
+
 ## 🛠️ Tech Stack
-- **Frontend:** React, Tailwind  
-- **Backend:** Node.js, Express.js  
-- **Database:** PostgreSQL  
-- **Others:** VHDL, Assembly RISC-V, Git
+
+<div style="display: flex; flex-wrap: wrap; gap: 40px; align-items: flex-start;">
+  <!-- Bloco de Tecnologias -->
+  <div style="min-width: 250px;">
+    - **Frontend:** React, Tailwind  
+    - **Backend:** Node.js, Express.js  
+    - **Database:** PostgreSQL  
+    - **Others:** VHDL, Assembly RISC-V, Git
   </div>
-  <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dcVictor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+  <!-- Gráfico de Linguagens -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dcVictor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" 
+         height="150" 
+         alt="languages graph" />
+  </div>
 </div>
+
 
 ###
 </div>
