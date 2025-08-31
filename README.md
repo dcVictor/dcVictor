@@ -11,11 +11,6 @@
 - **Backend:** Node.js, Express.js  
 - **Database:** PostgreSQL  
 - **Others:** VHDL, Assembly RISC-V, Git
-
-  <div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
-
 ###
 
 <div align="left">
