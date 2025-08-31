@@ -1,35 +1,32 @@
-name: Generate Snake
+name: Atualizar Pac-Man Contribution
 
 on:
-  schedule: # Executa automaticamente 1x por dia
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # permite rodar manualmente pelo Actions
+  workflow_dispatch:
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      # Checkout do repositório
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      # Gera os gráficos do Snake/Pac-Man
-      - name: Generate Snake Game
-        uses: Platane/snk@v3
+      - name: Gerar Gráfico de Contribuição Pac-Man
+        uses: AndreRuperto/svg-pacman-contributions@main
         with:
-          github_user_name: dcVictor
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg
-            dist/pacman-contribution-graph.gif
-            dist/pacman-contribution-graph-dark.gif
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.PAT_TOKEN }}
+          theme: github-dark
+          output_directory: dist
+          player_style: oportunista
 
-      # Faz o push para a branch `output`
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publicar pacman-contribution-graph.svg na branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
